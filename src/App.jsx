@@ -185,17 +185,6 @@ const App = () => {
                     With a strong background in hardware, software, and networking, I specialize in the installation, troubleshooting, and maintenance of critical systems. From configuring comprehensive CCTV networks to repairing desktops, setting up servers, and executing field work, my objective is to utilize my extensive technical skills to ensure reliability and growth within a challenging and dynamic environment.
                   </p>
                 </div>
-                <div className="hero-links md:col-span-4 flex flex-col gap-5 font-semibold items-start md:items-end md:text-right mt-2 md:mt-0 text-[#F2BA49] tracking-widest text-sm">
-                  <a href="#contact" className="flex items-center gap-2 group hover:text-white transition-colors">
-                    RESUME <ArrowUpRight size={16} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
-                  </a>
-                  <a href="#contact" className="flex items-center gap-2 group hover:text-white transition-colors">
-                    LINKEDIN <ArrowUpRight size={16} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
-                  </a>
-                  <a href="mailto:kenzocabahug30@gmail.com" className="flex items-center gap-2 group hover:text-white transition-colors">
-                    EMAIL <ArrowUpRight size={16} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
-                  </a>
-                </div>
               </div>
             </div>
             
@@ -316,9 +305,9 @@ const App = () => {
               Reliable infrastructure.<br/><span className="italic font-light">Seamless operations.</span><br/>Let's connect!
             </h2>
             <div className="flex flex-col gap-4">
-                <a href="mailto:kenzocabahug30@gmail.com" className="text-xl md:text-2xl inline-flex items-center gap-3 group hover:text-white transition-colors">
+                <a href="mailto:cabahugkennethjohn@gmail.com" className="text-xl md:text-2xl inline-flex items-center gap-3 group hover:text-white transition-colors">
                   <Mail size={24} className="text-[#F2BA49]" />
-                  kenzocabahug30@gmail.com
+                  cabahugkennethjohn@gmail.com
                   <ArrowUpRight size={20} className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform opacity-50" />
                 </a>
                 <div className="text-xl md:text-2xl inline-flex items-center gap-3 text-[#F2BA49]/80">
